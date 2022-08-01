@@ -1,0 +1,36 @@
+body {
+  background-color: green;
+}
+
+.div_title {
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  font-size: 50px;
+  color: lightgrey;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+
+}
+
+.game_board {
+  display: flex;
+  justify-content: center;
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+  align-items:baseline;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: 10px solid;
+  border-color: white;
+  background-color: green;
+  color: lightgrey;
+}
